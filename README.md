@@ -5,9 +5,6 @@
   <br>
   <h2 align="center"> Tech-Flow | UNIP São José dos Campos</h2>
 
-  | [Sobre](#sobre) | [Proposta](#proposta) | [Backlog](#backlog) | [Cronograma](#cronograma) |  [Tecnologias](#tecnologias) | [Estrutura](#estrutura) | [Como Usar](#como-usar)  | [Equipe](#equipe) 
-</div>
-
 ---
 
 ## Sobre a Tech-Flow <a id="sobre"></a>
@@ -20,7 +17,8 @@ Nosso objetivo é desenvolver um **portal de chamados inteligente** que promove 
 
 ---
 
-## Backlog do Produto <a id="backlog"></a>
+<details>
+<summary> Backlog do Produto 📋 <a id="backlog"></a> </summary>
 
 ### **Épico 1: Cadastro e Autenticação**
 * *US01: Cadastro de Usuário Final* (5 SP)
@@ -44,10 +42,12 @@ Nosso objetivo é desenvolver um **portal de chamados inteligente** que promove 
 
 ### **Épico 6: Escalabilidade e Performance**
 * *US11: Otimizações de performance* (13 SP)
+</details>
 
 ---
 
-## Cronograma (Sprints) <a id="cronograma"></a>
+<details>
+<summary> Cronograma (Sprints) 🗓️ <a id="cronograma"></a> </summary>
 
 | Período da Sprint | Documentação da Sprint |
 | :--- | :---: |
@@ -59,18 +59,22 @@ Nosso objetivo é desenvolver um **portal de chamados inteligente** que promove 
 | **Sprint 6:** Histórico e Relatórios Iniciais - 20/09/2025 - 22/09/2025 | [link] |
 | **Sprint 7:** Exportação e Interface Responsiva - 23/09/2025 - 25/09/2025 | [link] |
 | **Sprint 8:** Acessibilidade, Segurança e Otimizações - 25/09/2025 - 01/10/2025 | [link] |
+</details>
 
 ---
 
-## Tecnologias Utilizadas <a id="tecnologias"></a>
+<details>
+<summary> Tecnologias Utilizadas 💻 <a id="tecnologias"></a> </summary>
 
 * **Banco de Dados**: MySql
 * **Design de Interface**: Figma
 * **Linguagem Back-end**: Java (implícito na estrutura de pastas)
+</details>
 
 ---
 
-## 📂 Estrutura do Projeto <a id="estrutura"></a>
+<details>
+<summary> 📂 Estrutura do Projeto <a id="estrutura"></a> </summary>
 
 ```text
 📁 techflow/
@@ -83,7 +87,11 @@ Nosso objetivo é desenvolver um **portal de chamados inteligente** que promove 
 ├── 📜 .gitignore
 └── 📄 README.md
 ```
-## Como Usar: Simplificando o Seu Dia <a id="como-usar"></a>
+</details>
+
+---
+<details>
+<summary> Como Usar: Simplificando o Seu Dia 💡 <a id="como-usar"></a> </summary>
 
 Queremos garantir que você aproveite ao máximo a **facilidade** do nosso portal de chamados:
 
@@ -95,8 +103,12 @@ Queremos garantir que você aproveite ao máximo a **facilidade** do nosso porta
     * Utilize nossos filtros avançados para buscar chamados de maneira **intuitiva** por **status, prioridade, responsável, cliente, data** 🔍
 * **4. Relatórios Detalhados**
     * Tenha acesso a **análises completas** e transparentes sobre o desempenho e tempo de resposta da equipe.
+</details>
 
-## Equipe - TechFlow | Nossas Desenvolvedoras e Desenvolvedores <a id="equipe"></a>
+---
+
+<details>
+<summary> Equipe - TechFlow | Nossas Desenvolvedoras e Desenvolvedores 🧑‍💻👩‍💻 <a id="equipe"></a> </summary>
 
 | Nome | Papel | GitHub |
 | :--- | :--- | :---: |
@@ -104,5 +116,6 @@ Queremos garantir que você aproveite ao máximo a **facilidade** do nosso porta
 | **André Takashi Prado Takamura** | Scrum Master | [@Yashatk](https://github.com/Yashatk) |
 | **Fabrício Santos Cavalcante** | Desenvolvedor | [@Kinnube](https://github.com/Kinnube) |
 | **Thiago Paulino da Silva** | Desenvolvedor | [@thiagooo9](https://github.com/thiagooo9) |
+</details>
 
 ---
