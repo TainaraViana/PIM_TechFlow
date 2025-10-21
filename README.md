@@ -1,21 +1,22 @@
 <div align="center">
-  <h1 align="center"> Tech-Flow: Portal de Chamados Inteligente </h1>
-  <img src="Base_TechFlow/img/techflow-logo.png" alt="Logo TechFlow" width="170">
-  <br>
-  <h2 align="center"> Tech-Flow | UNIP São José dos Campos</h2>
+  <h1 align="center"> ✨ Tech-Flow: Portal de Chamados Inteligente ✨ </h1>
+  <h3 align="center"> Conectando Suporte e Soluções com Fluidez e Inteligência </h3>
+  <img src="Base_TechFlow/img/techflow-logo.png" alt="Logo TechFlow" width="170">
+  <br>
+  <h2 align="center"> Tech-Flow | UNIP São José dos Campos</h2>
 
-  | [Sobre](#sobre) | [Proposta](#proposta) | [Backlog](#backlog) | [Cronograma](#cronograma) |  [Tecnologias](#tecnologias) | [Estrutura](#estrutura) | [Como Usar](#como-usar)  | [Equipe](#equipe) 
+  | [Sobre](#sobre) | [Proposta](#proposta) | [Backlog](#backlog) | [Cronograma](#cronograma) |  [Tecnologias](#tecnologias) | [Estrutura](#estrutura) | [Como Usar](#como-usar)  | [Equipe](#equipe) 
 </div>
 
 ---
 
 ## Sobre a Tech-Flow <a id="sobre"></a>
 
-Somos uma equipe de desenvolvedores do ambiente acadêmico da UNIP de São José dos Campos. Nosso grupo é dedicado a aplicar conhecimento técnico de ponta na resolução de problemas práticos do mercado. Unimos uma base teórica sólida com uma abordagem ágil para transformar desafios em software, visando como produto um portal de chamados.
+Somos uma equipe de desenvolvedoras e desenvolvedores do ambiente acadêmico da UNIP de São José dos Campos. Movidos pela **paixão** por tecnologia e **dedicação**, nosso grupo se dedica a aplicar conhecimento técnico de ponta na resolução de problemas práticos do mercado. Unimos uma base teórica sólida com uma abordagem ágil e **muito cuidado** para transformar desafios em software, visando como produto um portal de chamados que realmente faz a diferença.
 
 ## Proposta <a id="proposta"></a>
 
-Visamos desenvolver um **portal de chamados inteligente** que otimiza o atendimento técnico e a comunicação entre clientes e atendentes. Utilizando **Inteligência Artificial**, o sistema realiza triagem automática, classificação de solicitações e sugere soluções para problemas frequentes, otimizando o tempo de resposta, melhor organização dos chamados e reduzindo a sobrecarga da equipe de TI.
+Nosso objetivo é desenvolver um **portal de chamados inteligente** que promove a **fluidez** no atendimento técnico e a **conexão** clara entre clientes e atendentes. Utilizando **Inteligência Artificial**, o sistema realiza triagem automática e classificação de solicitações com precisão, além de sugerir soluções para problemas frequentes. Isso otimiza o tempo de resposta, garante uma **melhor organização** dos chamados e reduz a sobrecarga da equipe de TI, permitindo um foco maior no **acolhimento** e na solução.
 
 ---
 
@@ -75,30 +76,27 @@ Visamos desenvolver um **portal de chamados inteligente** que otimiza o atendime
 📁 techflow/
 ├── 📁 docs/
 ├── 📁 src/
-│   ├── 📁 main/
-│   │   ├── ☕ java/
-│   │   └── 📄 resources/
-│   └── 📁 test/
+│   ├── 📁 main/
+│   │   ├── ☕ java/
+│   │   └── 📄 resources/
+│   └── 📁 test/
 ├── 📜 .gitignore
 └── 📄 README.md
 ```
+## Como Usar: Simplificando o Seu Dia <a id="como-usar"></a>
 
-## Como Usar <a id="como-usar"></a>
-
-Para garantir o melhor aproveitamento do portal de chamados:
+Queremos garantir que você aproveite ao máximo a **facilidade** do nosso portal de chamados:
 
 * **1. Registro de Chamados**
-    * Os usuários podem **abrir chamados** descrevendo o problema e definindo a prioridade.
+    * Sinta-se à vontade para **abrir seu chamado** descrevendo o problema de forma clara e definindo a prioridade ideal.
 * **2. Visualização e Gerenciamento**
-    * Atendentes podem visualizar, **editar** e **alterar status** dos chamados.
+    * Nossos atendentes podem visualizar, **editar** e **alterar o status** dos chamados com agilidade e organização.
 * **3. Pesquisa e Filtros**
-    * Filtros avançados para buscar chamados por **status, prioridade, responsável, cliente, data** 🔍
+    * Utilize nossos filtros avançados para buscar chamados de maneira **intuitiva** por **status, prioridade, responsável, cliente, data** 🔍
 * **4. Relatórios Detalhados**
-    * **Análises completas** sobre desempenho e tempo de resposta.
+    * Tenha acesso a **análises completas** e transparentes sobre o desempenho e tempo de resposta da equipe.
 
-
-
-## Equipe - TechFlow <a id="equipe"></a>
+## Equipe - TechFlow | Nossas Desenvolvedoras e Desenvolvedores <a id="equipe"></a>
 
 | Nome | Papel | GitHub |
 | :--- | :--- | :---: |
